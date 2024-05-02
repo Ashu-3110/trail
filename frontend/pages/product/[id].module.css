@@ -1,0 +1,5 @@
+@media (min-width: 768px){
+.md\:pl-4 {
+    padding-left: 25rem;
+}
+}
